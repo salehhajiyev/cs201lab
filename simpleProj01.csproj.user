@@ -4,7 +4,7 @@
     <DebuggerFlavor>ProjectDebugger</DebuggerFlavor>
   </PropertyGroup>
   <PropertyGroup>
-    <ActiveDebugProfile>simpleProj01</ActiveDebugProfile>
+    <ActiveDebugProfile>Docker</ActiveDebugProfile>
     <NameOfLastUsedPublishProfile>C:\Users\saleh\source\repos\simpleProj01\simpleProj01\Properties\PublishProfiles\FolderProfile.pubxml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>
